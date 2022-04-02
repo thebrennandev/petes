@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @petesworld
-- 👀 I am the Founder of BlastApp Platform alongside my partner Ovadux!
-- 🌱 I’m currently learning HTML, ViewJS ( Thanks Ovadux )
+### Hey there! 👋
 
-<!---
-petesworld/petesworld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is petes. I have a strong passion for photography, media arts and more. 
+  
+Im experianced in Customer Support, Public Relations and so much more.
+ 
+My friend Ovadux and I have started to create a platform for everyone in the Roblox Community to join, manage there staff and more. We are expected Beta-Release Soon!
+
