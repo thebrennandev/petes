@@ -10,3 +10,5 @@
 <p>Discord Server: https://discord.gg/blastapp/</p>
 <p>Website: https://blastapp.work/</p>
 <h6>ps. cameron smells</h6>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/979494071942918146)](https://discord.com/users/979494071942918146)
