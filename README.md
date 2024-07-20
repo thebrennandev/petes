@@ -1,14 +1,41 @@
-<h1>Hiya there, my name is Brennan! Pleasure to meet you! 🤠</h1>
-<p>I have come along way from learning, but so far here is my toolbase.</p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind&perline=30"/>
-<p> I am currently <b>TRYING</b> to learn:</p>
-<img src="https://skillicons.dev/icons?i=typescript,javascript&perline=30"/>
-<hr/>
-<img align="right" src="https://64.media.tumblr.com/f3605f059fddff4d608152d00055b9d5/tumblr_oe2fe1mihd1vdlvpao1_400.gif" alt="cat kis"/>
+<div align="center">
+  <h1>Hiya there, my name is Brennan! Pleasure to meet you! 🤠</h1>
+</div>
 
-<h1>🚀One of my main projects is working on Blast, you should go check it out!</h1>
-<p>Discord Server: https://discord.gg/blastapp/</p>
-<p>Website: https://blastapp.work/</p>
-<h6>ps. cameron smells</h6>
 
+
+### 🚀 About Me
+
+I'm the Chief Operating Officer at [Blast](https://blastapp.work/), a Human Resources platform on Roblox.
+
+### 💡 Fun Facts
+
+- 🔭 I'm currently learning, trying to expand my stack to the best of my abilities.
+- 🌱 I work on developing mock-ups and internal designs for Blast. 
+- 👯 [Cameron](https://github.com/thecamerondev/thecamerondev) and I have been working and leading blast for 2 years! 
+
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind)](https://skillicons.dev)
+  <!-- Add more icons as needed -->
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thebrennandev&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thebrennandev&theme=dark" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 🌐 What am I up too?
+<img src="https://lanyard-profile-readme.vercel.app/api/979494071942918146"></img>
 
