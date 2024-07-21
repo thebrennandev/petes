@@ -3,7 +3,7 @@
 <hr/>
 
 <img align="right" src="https://64.media.tumblr.com/f3605f059fddff4d608152d00055b9d5/tumblr_oe2fe1mihd1vdlvpao1_400.gif" alt="cat kis"/>
-<h3>⁉️ what do you call a scripter, entrepreneurr, and hard worker?</h3>
+<h3>⁉️ what do you call a scripter, entrepreneur, and hard worker?</h3>
 <h4>❗A "Code Hustler!" - I know, I am a real joker! 🤣</h4>
 
 
