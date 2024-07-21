@@ -1,41 +1,11 @@
-<div align="center">
-  <h1>Hiya there, my name is Brennan! Pleasure to meet you! 🤠</h1>
-</div>
+<h1>👋 i'm brennan, how are you?</h1>
+<img src="https://skillicons.dev/icons?i=tailwind,html,css,js&perline=30"/>
+<hr/>
+
+<img align="right" src="https://64.media.tumblr.com/f3605f059fddff4d608152d00055b9d5/tumblr_oe2fe1mihd1vdlvpao1_400.gif" alt="cat kis"/>
+<h3>⁉️ what do you call a scripter, entrepreneurr, and hard worker?</h3>
+<h4>❗A "Code Hustler!" - I know, I am a real joker! 🤣</h4>
 
 
-
-### 🚀 About Me
-
-I'm the Chief Operating Officer at [Blast](https://blastapp.work/), a Human Resources platform on Roblox.
-
-### 💡 Fun Facts
-
-- 🔭 I'm currently learning, trying to expand my stack to the best of my abilities.
-- 🌱 I work on developing mock-ups and internal designs for Blast. 
-- 👯 [Cameron](https://github.com/thecamerondev/thecamerondev) and I have been working and leading blast for 2 years! 
-
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind)](https://skillicons.dev)
-  <!-- Add more icons as needed -->
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thebrennandev&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thebrennandev&theme=dark" alt="GitHub Streak"/>
-</div>
-
----
-
-### 🌐 What am I up too?
-<img src="https://lanyard-profile-readme.vercel.app/api/979494071942918146"></img>
+i also make cool stuff. i work primarily in [tailwind](https://tailwindcss.com/). just mostly frontend stuff, experimenting with javascript right now as well.
 
